@@ -1,5 +1,4 @@
 # Old
 * visiting in Jan
-* staying for a week
-* Hosting a Drinkup
 * talking to a User Group
+* this is another line for git foundations
